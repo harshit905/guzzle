@@ -1,5 +1,3 @@
-![Guzzle](.github/logo.png?raw=true)
-
 # Guzzle, PHP HTTP Client
 
 Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and
