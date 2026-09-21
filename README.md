@@ -79,11 +79,6 @@ has been announced. Please see
 [Security Policy](https://github.com/guzzle/guzzle/security/policy) for more
 information.
 
-## License
-
-Guzzle is made available under the MIT License (MIT). Please see
-[License File](LICENSE) for more information.
-
 ## For Enterprise
 
 Available as part of the Tidelift Subscription
