@@ -15,10 +15,6 @@ trivial to integrate with web services.
   PHP streams, sockets, or non-blocking event loops.
 - Middleware system allows you to augment and compose client behavior.
 
-## Installation
-
-The recommended way to install Guzzle is through
-[Composer](https://getcomposer.org/).
 
 ```bash
 composer require guzzlehttp/guzzle
